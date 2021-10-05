@@ -1,0 +1,33 @@
+{
+    "precense": "with Tickets.",
+    "precenseType": "PLAYING",
+    "statusType": "online",
+
+    "createButtonEmoji": "📁",
+    "createButtonStyle": "red",
+    "createButtonText": "Create Ticket",
+
+    "createEmbedColor": "aa0000",
+    "createEmbedTitle": "TicketSystem",
+    "createEmbedDescription": "Click on the button to create a ticket.",
+    "createEmbedFooter": "TicketSystem from DiscordJSDev",
+
+    "ticketname": "ticket-",
+    "multipleTicketText": "You have already a ticket.",
+
+    "closeButtonStyle": "blurple",
+    "closeButtonEmoji": "🔒",
+    "closeButtonText": "Close Ticket",
+
+    "ticketEmbedColor": "00aa00",
+    "ticketEmbedTitle": "Your Ticket",
+    "ticketEmbedDescription": "Please describe your problem.",
+    "ticketEmbedFooter": "TicketSystem from DiscordJSDev",
+
+    "noPermissionsToClose": "Only staff members can close tickets.",
+
+    "closeticketEmbedColor": "ff0000",
+    "closeticketEmbedTitle": "Closing Ticket",
+    "closeticketEmbedDescription": "The ticket will be deleted in one minute.",
+    "closeticketEmbedFooter": "TicketSystem from DiscordJSDev"
+}

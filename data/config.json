@@ -1,0 +1,8 @@
+{
+	"ticketchannel": "Place-your-ticket-createchannel-id-here",
+	"ticketcatogory": "Place-your-ticketcatogory-id-here",
+
+	"teamRole": "Place-your-staffrole-id-here",
+
+	"token": "Place-your-bot-token-here"
+}
