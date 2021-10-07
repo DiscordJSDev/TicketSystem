@@ -5,8 +5,6 @@ A basic discord ticketsystem with buttons.
 NodeJS / npm
 
 # Installation
-npm install
-  or
 npm i discord.js@12.5.3 discord-buttons fs
 
 # Contact
