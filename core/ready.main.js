@@ -1,5 +1,5 @@
 const { ticketchannel, ticketcatogory, teamRole } = require('../data/config.json')
-const { createButtonEmoji, createButtonStyle, createButtonText, createEmbedColor, createEmbedTitle, createEmbedDescription, createEmbedFooter, ticketname, multipleTicketText, closeButtonStyle, closeButtonEmoji, closeButtonText, ticketEmbedColor, ticketEmbedTitle, ticketEmbedDescription, ticketEmbedFooter, closeticketEmbedColor, closeticketEmbedTitle, closeticketEmbedDescription, closeticketEmbedFooter } = require('../data/messages.json')
+const { createButtonEmoji, createButtonStyle, createButtonText, createEmbedColor, createEmbedTitle, createEmbedDescription, createEmbedFooter, ticketname, multipleTicketText, closeButtonStyle, closeButtonEmoji, closeButtonText, ticketEmbedColor, ticketEmbedTitle, ticketEmbedDescription, ticketEmbedFooter, closeticketEmbedColor, closeticketEmbedTitle, closeticketEmbedDescription, closeticketEmbedFooter, noPermissionsToClose } = require('../data/messages.json')
 const { MessageEmbed } = require('discord.js')
 const { MessageButton, ButtonCollector } = require('discord-buttons')
 
